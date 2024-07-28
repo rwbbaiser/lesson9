@@ -16,3 +16,8 @@ nav {
     background-color: rgb(104, 107, 100);
     height: 26px;
 }
+
+.container-1 {
+    display: flex;
+}
+
